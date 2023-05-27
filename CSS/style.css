@@ -1,0 +1,173 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: #292e34;
+
+}
+
+.titulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  color: #f8fafa;
+  font-family: 'Pacifico', cursive;
+}
+
+.titulo span img {
+  width: 80px;
+}
+
+.nombreSigno {
+  font-size: 20px;
+  margin: 0;
+  color: #ffffff;
+  font-family: 'Pacifico', cursive;
+}
+
+#signos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.signo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 130px;
+  height: 130px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  gap: 5px;
+  border-radius: 14px;
+  box-shadow: 5px 5px 10px #171a1d,
+    -5px -5px 10px #394049;
+}
+
+.signo:nth-child(3n+1) {
+  background: linear-gradient(145deg, #f7ce53, #a2811e);
+}
+
+.signo:nth-child(3n+2) {
+  background: linear-gradient(145deg, #f67b7f, #f75459);
+}
+
+.signo:nth-child(3n+3) {
+  background: linear-gradient(145deg, #98a0d4, #5766cb);
+}
+
+.imgSignos {
+  width: 30px;
+}
+
+#fondo {
+  position: absolute;
+  width: 100%;
+  height: 110vh;
+  z-index: -1;
+}
+
+#fondoImg {
+  position: absolute;
+  opacity: 3%;
+  width: 2%;
+}
+
+
+
+.imgSignosModal {
+  width: 60px;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+}
+
+.nombreSignoModal {
+  font-family: 'Pacifico', cursive;
+}
+
+.modalContenido {
+  text-align: center;
+  color: white;
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border-radius: 10px;
+  transition: width 0.5s ease-in-out;
+  font-family: 'Rubik', sans-serif;
+  overflow: hidden
+}
+
+.signoModal,
+.modalTextos {
+  transition: opacity 2s ease-in-out;
+  opacity: 0;
+}
+
+.signoModal.anchoCompleto,
+.modalTextos.anchoCompleto {
+  opacity: 1;
+}
+
+.modalContenido.anchoCompleto {
+  width: 550px;
+  height: 450px;
+}
+
+
+/*------------------------------------- Modal */
+@media (max-width: 426px) {
+  body {
+    height: 90vh;
+  }
+
+  .titulo {
+    font-size: 22px;
+  }
+
+  .titulo span img {
+    width: 60px;
+  }
+
+  #signos {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px;
+  }
+
+  .imgSignos {
+    width: 25px;
+  }
+
+  .signo {
+    width: 100px;
+    height: 100px;
+  }
+
+  .imgSignosModal {
+    width: 40px;
+  }
+
+  .modalContenido.anchoCompleto {
+    width: 85%;
+    height: 500px;
+    overflow-y: auto;
+  }
+}

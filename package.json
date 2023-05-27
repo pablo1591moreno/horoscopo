@@ -1,0 +1,87 @@
+{
+    "Aries": {
+      "fecha": "21 de marzo al 19 de abril",
+      "descripcion": "Aries, sos fuerte, audaz y no temes a un reto. Así como el asado se asa lentamente para desarrollar su sabor y textura perfecta, vos necesitas tiempo para alcanzar tus metas y objetivos. El platillo que mejor te representa es la provoleta, fuerte y sabrosa como vos.",
+      "amor": "En el amor, Aries, sos como un corte de carne de cerdo. sos apasionado y fuerte, y cuando te enamoras, lo haces con todo tu ser. Al igual que un buen corte de carne de cerdo, sos la elección perfecta para una cena romántica. ",
+      "trabajo": "En el trabajo, sos como una parrilla con mucho fuego y energía. sos un líder natural y siempre estás dispuesto a tomar la iniciativa.",
+      "img": "imagen/Aries.png"
+    },
+    "Tauro": {
+      "fecha": "20 de abril al 20 de mayo",
+      "descripcion": "Tauro, sos una deliciosa entraña: suave, sabrosa y con un sabor que perdura. sos una persona sensual, amante de los placeres terrenales y que busca siempre la comodidad. Para ti, la mejor achura del asado es la morcilla, con su sabor sustancioso.",
+      "amor": "En el amor, Tauro, sos como un tierno bife de chorizo. sos leal y cariñoso, y disfrutas de lo simple de la vida. Al igual que un bife de chorizo bien hecho, sos la pareja perfecta para alguien que busca estabilidad y seguridad. ",
+      "trabajo": "En el trabajo, sos como una parrilla de hierro fundido, resistente y confiable. sos capaz de manejar las situaciones más difíciles y siempre estás dispuesto a ayudar a tus compañeros de trabajo.",
+      "img": "imagen/Tauro.png"
+    },
+    "Géminis": {
+      "fecha": "21 de mayo al 20 de junio",
+      "descripcion": "Géminis, como una combinación de cortes de asado, sos versátil, curioso y siempre buscando algo nuevo para experimentar. El platillo que mejor te representa es la ensalada criolla, con su mezcla de sabores y texturas.",
+      "amor": "En el amor, Géminis, sos como una variedad de achuras, siempre cambiante y emocionante. sos divertido y lleno de energía, y siempre estás buscando nuevas aventuras. Sos la pareja perfecta para alguien que busca una relación emocionante y llena de sorpresas. ",
+      "trabajo": "En el trabajo, sos como unos pinchos a la parrilla, con muchas cosas sucediendo al mismo tiempo. sos capaz de manejar múltiples tareas y siempre estás buscando nuevas formas de mejorar.",
+      "img": "imagen/Géminis.png"
+    },
+    "Cáncer": {
+      "fecha": "21 de junio al 22 de julio",
+      "descripcion": "Cáncer, sos una suave y deliciosa molleja. sos una persona emocional, amorosa y que valora las relaciones personales. Al igual que la molleja, sos un tesoro escondido que solo aquellos que se toman el tiempo de conocerte pueden apreciar. También sos un poco chimichurri, le das sabor y vida a todo lo que toca.",
+      "amor": "En el amor, Cáncer, sos como una suave y reconfortante guarnición de puré de papas. sos sensible y compasivo, y siempre estás buscando formas de hacer feliz a tu pareja. Al igual que un puré de papas bien hecho, sos la pareja perfecta para alguien que busca una relación reconfortante y segura.",
+      "trabajo": "En el trabajo, sos como el amigo que organiza el asado, cuidando a tu equipo y asegurándote de que todos trabajen juntos en armonía.",
+      "img": "imagen/Cáncer.png" 
+    },
+    "Leo": {
+      "fecha": "23 de julio - 22 de agosto",
+      "descripcion": "Sos un gran corte de vacío, Leo. sos el rey o la reina del asado, y siempre te gusta destacar y ser el centro de atención. Al igual que el vacío, sos una persona con mucho sabor y presencia. El platillo que mejor te representa es el choripan, sabroso y el que siempre sale primero para adelante.",
+      "amor": "En el amor, Leo, sos como un jugoso y sabroso bife de lomo. sos apasionado y seguro de vos mismo, y siempre estás buscando maneras de impresionar a tu pareja. Al igual que un bife de lomo, sos la pareja perfecta para alguien que busca una relación emocionante y llena de energía. ",
+      "trabajo": "En el trabajo, sos como un asado a leña, brillante y poderoso. sos un líder natural y siempre estás buscando formas de motivar a tu equipo.",
+      "img": "imagen/Leo.png"
+    },
+    "Virgo": {
+      "fecha": "23 de agosto al 22 de septiembre",
+      "descripcion": "Virgo. Sos un corte de asado bien cortado y limpio, como el que te da el carnicero cuando anda de buenas, sos organizado, práctico y siempre te aseguras de que todo esté en su lugar. Al igual que ese buen corte, sos un modelo de precisión y perfección. El platillo que mejor te representa es una buena porción de ensalada para complementar.",
+      "amor": "En el amor, Virgo, sos como una cuidadosa selección de verduras frescas y saludables. sos metódico y detallista, y valoras la honestidad y la sinceridad en tus relaciones. Al igual que una selección de verduras frescas y saludables, sos la pareja ideal para alguien que busca una relación estable y saludable.",
+      "trabajo": "En el trabajo, sos como un cuchillo bien afilado, preciso y eficiente. sos capaz de manejar situaciones complejas con facilidad y siempre buscas la forma más efectiva de hacer las cosas.",
+      "img": "imagen/Virgo.png"
+    },
+    "Libra": {
+      "fecha": "23 de septiembre al 22 de octubre",
+      "descripcion": "Sos un corte bien balanceado entre carne y grasa, Libra. sos una persona justa, equilibrada y siempre tratando de mantener la armonía en todas las situaciones, necesitas el balance adecuado de sal y especias para alcanzar la perfección. El platillo que mejor te representa es una buena provoleta con una ensalada fresca para balancear.",
+      "amor": "En el amor, Libra, sos como un exquisito corte de bife de chorizo. sos elegante y sofisticado, y valoras la armonía y el equilibrio en tus relaciones. Al igual que un bife de chorizo perfectamente cocido, sos la pareja ideal para alguien que busca una relación balanceada y satisfactoria. ",
+      "trabajo": "En el trabajo, sos como una plancha, suave y efectivo. sos capaz de manejar situaciones delicadas y siempre buscas la solución más justa para todos.",
+      "img": "imagen/Libra.png"
+    },
+    "Escorpio": {
+      "fecha": "23 de octubre - 21 de noviembre",
+      "descripcion": "Escorpio, sos una intensa y sabrosa morcilla. Una persona apasionada, misteriosa y con un lado oscuro. Al igual que la morcilla, tenés una personalidad intensa y atractiva que a veces puede ser intimidante para los demás. El platillo que mejor te representa es un buen bife de chorizo, que tiene un sabor intenso y una presencia imponente.",
+      "amor": "En el amor, sos una choripan con chimi picante. sos intenso y apasionado, y siempre estás buscando formas de profundizar en tus relaciones. Al igual que un chori con picante, sos la pareja perfecta para alguien que busca una relación emocionante y llena de pasión. ",
+      "trabajo": "En el trabajo, sos como unas pinzas, capaz de manejar situaciones complejas y siempre buscando la forma más eficiente de hacer las cosas.",
+      "img": "imagen/Escorpio.png"
+    },
+    "Sagitario": {
+      "fecha": "22 de noviembre al 21 de diciembre",
+      "descripcion": "Sagitario, sos una suculenta tira de asado. sos una persona aventurera, enérgica y siempre en busca de nuevas experiencias. Al igual que la tira de asado, sos una persona con sabor hasta el hueso que nunca se conforma con lo básico. El platillo que mejor te representa es un buen chinchulín, con su sabor fuerte y su textura única.",
+      "amor": "En el amor, Sagitario, sos una deliciosa guarnición de papas fritas crujientes. sos aventurero y espontáneo, y siempre estás buscando formas de divertirte con tu pareja. Al igual que unas papas fritas, sos la pareja perfecta para alguien que busca una relación emocionante y llena de diversión.",
+      "trabajo": "En el trabajo, sos como un wok, siempre listo para enfrentar nuevos desafíos y encontrar soluciones creativas.",
+      "img": "imagen/Sagitario.png"
+    },
+    "Capricornio": {
+      "fecha": "22 de diciembre al 19 de enero",
+      "descripcion": "Capricornio, sos un clásico bife de lomo. sos una persona seria, responsable y comprometida con tu trabajo y objetivos. Al igual que el bife de lomo, sos una persona de gran calidad y siempre buscas la excelencia en todo lo que haces. Sos un buen pan frances, sencillo pero que nunca debe faltar.",
+      "amor": "En el amor, Capricornio, sos un tierno y sabroso entrañita. sos paciente y confiable, y valoras la estabilidad y el compromiso en tus relaciones. Al igual que una entraña bien hecha, sos la pareja ideal para alguien que busca una relación seria y duradera.",
+      "trabajo": "En el trabajo, sos como una olla a presión, eficiente y efectivo. sos capaz de manejar grandes responsabilidades y siempre buscas la forma más efectiva de hacer las cosas.",
+      "img": "imagen/Capricornio.png"
+    },
+    "Acuario": {
+      "fecha": "20 de enero al 18 de febrero",
+      "descripcion": "Acuario, sos un costillar a la parrillada, tenés una personalidad única y compleja que puede sorprender y deleitar a quienes te conocen. Eres innovador y siempre buscas nuevas formas de hacer las cosas, lo que te hace una persona fascinante y atractiva",
+      "amor": "En el amor, Acuario, sos una creativa y sorprendente guarnición de ensalada de quinoa. sos innovador y original, y siempre estás buscando nuevas formas de sorprender a tu pareja. Al igual que una ensalada de quinoa, sos la pareja perfecta para alguien que busca una relación llena de sorpresas y originalidad.",
+      "trabajo": "En el trabajo, sos un horno de leña, capaz de transformar ideas en soluciones creativas y efectivas.",
+      "img": "imagen/Acuario.png"
+    },
+    "Piscis": {
+      "fecha": "19 de febrero al 20 de marzo",
+      "descripcion": "Piscis, sos un suave y delicado lomo. sos una persona sensible, compasiva y que valora las emociones y los sentimientos. Al igual que el lomo, sos un tesoro escondido que solo aquellos que se toman el tiempo de conocerte pueden apreciar. El platillo que mejor te representa es una buena porción de puré de papas, que es suave y reconfortante.",
+      "amor": "En el amor, Piscis, sos como una suave y dulce guarnición de puré de batatas. sos compasivo y cariñoso, y siempre estás buscando formas de hacer feliz a tu pareja. Al igual que un puré de batatas suave y reconfortante, sos la pareja ideal para alguien que busca una relación llena de cariño y empatía.",
+      "trabajo": "En el trabajo, sos como una olla de cocción lenta, siempre trabajando detrás de escena y construyendo lentamente proyectos y relaciones duraderas. sos capaz de manejar situaciones delicadas con paciencia y compasión.",
+      "img": "imagen/Piscis.png"
+    }
+
+  }
